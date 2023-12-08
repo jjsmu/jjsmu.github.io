@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>linkedin.com/jjoo1</p>
+    <a href="linkedin.com/jjoo1">LinkedIn</a>
     <p>Seattle, Washington 98101</p>
 
 news: true  # includes a list of news items
