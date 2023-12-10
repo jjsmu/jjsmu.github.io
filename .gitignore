@@ -10,3 +10,6 @@ Gemfile.lock
 vendor
 
 .Rproj.user
+
+jjsmu.github.io.Rproj
+.Rhistory
