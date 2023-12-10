@@ -16,6 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Joseph. I'm a second-generation American and Southern Californian native. I graduated from the University of Washington with a Bachelor of Science in computer science to pursue a career in software engineering. Currently, I'm a graduate student at Southern Methodist University in Dallas, Texas pursuing my passion in data science where I hope to apply my knowledge and skills to make a meaningful impact in academia and research.
+Joseph is a second-generation American and Southern Californian native. He graduated from the University of Washington with a Bachelor of Science in computer science to pursue a career in software engineering. Currently, Joseph is a graduate student attending Southern Methodist University in Dallas, Texas pursuing his passion in data science where he hopes to apply his knowledge and skills to make a meaningful impact to society.
 
 <a href="https://github.com/jjsmu">GitHub</a>
