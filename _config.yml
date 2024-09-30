@@ -18,26 +18,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ddxbugs
+title: jjsmu
 # email: ddxbugs@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ddxbugs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: ddxbugs
-# github_username:  ddxbugs
+url: "https://jjsmu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: 
+# github_username:  jjsmu
 
 # Author settings
 author:
 name: 
-email: ddxbugs@proton.me
-address: 11.62194, 165.54476
+email: 
+address:
 phone: 
 photo: assets/files/photo.jpg
 
 # Social settings
 social:
   facebook:
-  github: ddxbugs
+  github: jjsmu
   instagram:
   stackoverflow: 
   x: 
